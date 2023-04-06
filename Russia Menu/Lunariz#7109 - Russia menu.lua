@@ -98,7 +98,7 @@ button1.TextColor3 = Color3.fromRGB(0, 0, 0)
 button1.TextScaled = true
 button1.TextSize = 14.000
 button1.TextWrapped = true
-button1.MouseButton1Down:Connect(function(
+button1.MouseButton1Down:Connect(function()
 	--your script here
 end)
 
@@ -116,7 +116,7 @@ button2.TextColor3 = Color3.fromRGB(0, 0, 0)
 button2.TextScaled = true
 button2.TextSize = 14.000
 button2.TextWrapped = true
-button2.MouseButton1Down:Connect(function(
+button2.MouseButton1Down:Connect(function()
 	--your script here
 	end)
 
@@ -134,7 +134,7 @@ button3.TextColor3 = Color3.fromRGB(0, 0, 0)
 button3.TextScaled = true
 button3.TextSize = 14.000
 button3.TextWrapped = true
-button3.MouseButton1Down:Connect(function(
+button3.MouseButton1Down:Connect(function()
 	--your script here
 	end)
 
@@ -152,7 +152,7 @@ button4.TextColor3 = Color3.fromRGB(0, 0, 0)
 button4.TextScaled = true
 button4.TextSize = 14.000
 button4.TextWrapped = true
-button4.MouseButton1Down:Connect(function(
+button4.MouseButton1Down:Connect(function()
 	--your script here
 	end)
 
@@ -170,7 +170,7 @@ button5.TextColor3 = Color3.fromRGB(0, 0, 0)
 button5.TextScaled = true
 button5.TextSize = 14.000
 button5.TextWrapped = true
-button5.MouseButton1Down:Connect(function(
+button5.MouseButton1Down:Connect(function()
 	--your script here
 	end)
 
@@ -188,7 +188,7 @@ button6.TextColor3 = Color3.fromRGB(0, 0, 0)
 button6.TextScaled = true
 button6.TextSize = 14.000
 button6.TextWrapped = true
-button6.MouseButton1Down:Connect(function(
+button6.MouseButton1Down:Connect(function()
 	--your script here
 	end)
 
